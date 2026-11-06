@@ -1,0 +1,9 @@
+Coloque aqui a captura do Wireshark da interceptacao.
+
+Como gerar:
+  No Wireshark (no Kali), com a captura aberta, va em:
+    File > Save As > nome: captura-mitm.pcapng
+  e copie o arquivo para esta pasta.
+
+O README.md referencia este arquivo como:
+  capturas/captura-mitm.pcapng
