@@ -1,0 +1,15 @@
+# Artefatos de laboratório que não devem ser versionados
+*.exe
+*.bin
+*.elf
+*.raw
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
