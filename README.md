@@ -245,4 +245,4 @@ Mais importante do que executar os ataques foi compreender por que eles funciona
 - **Evidências (prints das etapas):** pasta [`evidencias`](./evidencias)
 - **Captura de rede do Wireshark:** [`capturas/captura-mitm.pcapng`](./capturas)
 - **Configuração de DNS falso utilizada:** [`artefatos/etter.dns`](./artefatos)
-- **Link de submissão no Moodle:** <!-- COLAR O LINK DO MOODLE AQUI -->
+- **Link de submissão no Moodle:** <https://ava.iftm.edu.br/mod/assign/view.php?id=221515&action=view>
