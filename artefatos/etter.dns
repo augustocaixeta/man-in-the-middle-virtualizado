@@ -1,0 +1,11 @@
+################################################################################
+# etter.dns - entradas de DNS falso usadas no plugin dns_spoof do Ettercap
+# Prova 03 - Ataque Man-in-the-Middle em ambiente virtualizado (laboratorio)
+#
+# Estas linhas foram adicionadas ao final de /etc/ettercap/etter.dns no Kali.
+# Elas redirecionam o dominio de demonstracao para o IP do atacante (Kali),
+# onde o Apache serve a pagina falsa.
+################################################################################
+
+banco-teste.lab      A   192.168.10.20
+*.banco-teste.lab    A   192.168.10.20
