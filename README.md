@@ -5,6 +5,7 @@
 **Professor:** Junio Moreira (`junio-moreira-dev`)
 **Data:** novembro de 2026
 
+> [!WARNING]
 > **Aviso ético.** Todos os testes descritos foram executados exclusivamente em ambiente de laboratório virtualizado e estritamente isolado (Rede Interna `labsec`, sem acesso à internet), com fins educacionais e controlados. Reproduzir estas técnicas em redes ou dispositivos de terceiros sem autorização configura crime, conforme a Lei nº 12.737/2012 (Lei Carolina Dieckmann).
 
 ---
